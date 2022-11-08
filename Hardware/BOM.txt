@@ -1,0 +1,58 @@
+Partlist
+
+Exported from untitled.brd at 26.10.2022 05:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                  Package                  Library             Position (mm)         Orientation
+
+C1       100uf                  C1210                    pasif_com1          (68.5 10)             R270
+C2       100uf                  C1210                    pasif_com1          (49.5 10)             R270
+C3       100uf                  C1210                    pasif_com1          (84 29)               R180
+C4       100uf                  C1210                    pasif_com1          (76 29)               R0
+C5       100uf                  E-020X050                cap-master          (84 29)               R180
+C6       100nf                  C0603                    pasif_com1          (57.75 16.5)          R270
+C7       100nf                  C0603                    pasif_com1          (65.75 8.75)          R90
+C8       100uf                  E-020X050                cap-master          (76 29)               R0
+C9       100nf                  C0603                    pasif_com1          (59.75 16.5)          R90
+C10      100uf                  E-020X050                cap-master          (60 29)               R0
+C11      100uf                  C1210                    pasif_com1          (60 29)               R0
+C12      100uf                  E-020X050                cap-master          (80.5 45.75)          R90
+C13      100uf                  C1210                    pasif_com1          (80.5 45.75)          R90
+D1       SS36                   DO-214AC                 pasif_com1          (56 4)                R0
+IC1      lm1117                 SOT223                   SparkFun            (68 32)               R0
+J1                              1X20_NOSILK              SparkFun-Connectors (86.36 40.64)         R180
+J2                              1X20_NOSILK              SparkFun-Connectors (38.1 22.86)          R0
+J3       POWER_JACKSLT          POWER_JACK_SLOT          SparkFun-Connectors (90 9)                R90
+L4       15µH_3A                SRN6045                  SparkFun-Coils      (55.25 10.25)         R90
+LED1                            LED3MM                   adafruit            (44 4)                R270
+LED2                            LED3MM                   adafruit            (32 15)               R270
+R1       330R                   0207/10                  rcl                 (44 13)               R90
+R2       330R                   R0603                    pasif_com1          (44 13)               R90
+R3       10K                    R0603                    pasif_com1          (43 32)               R270
+R4       10K                    0207/10                  rcl                 (43 32)               R270
+R5       10K                    R0603                    pasif_com1          (40 32)               R270
+R6       100K                   R0603                    pasif_com1          (65.75 13.25)         R90
+R7       40.2K                  R0603                    pasif_com1          (64.5 4.75)           R90
+R8       210K                   R0603                    pasif_com1          (62.5 4.75)           R270
+R9       100K                   R0603                    pasif_com1          (63.75 16.5)          R270
+R10      24.9K                  R0603                    pasif_com1          (60.5 4.75)           R90
+R11      100K                   R0603                    pasif_com1          (61.75 16.5)          R90
+R12      10K                    0207/10                  rcl                 (40 32)               R270
+R13      10K                    R0603                    pasif_com1          (46 32)               R270
+R14      10K                    0207/10                  rcl                 (46 32)               R270
+R15      10K                    R0603                    pasif_com1          (49 32)               R270
+R16      10K                    0207/10                  rcl                 (49 32)               R270
+R17      10K                    R0603                    pasif_com1          (52 32)               R270
+R18      10K                    0207/10                  rcl                 (52 32)               R270
+R19      330R                   0207/10                  rcl                 (40 13)               R90
+R20      330R                   R0603                    pasif_com1          (40 13)               R90
+S1       6x6                    TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (15 20)               R45
+S2       6x6                    TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (22 13)               R135
+S3       6x6                    TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (15 6)                R45
+S4       6x6                    TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (8 13)                R135
+S5       6x6                    TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (32 5)                R0
+U$1      DC-DC-STEP-DOWN-MP1584 DC-DC-STEP-DOWN-MP1584   diy-modules         (59 10)               R180
+U1       MP1584EN               SOIC127P600X170-9N       MP1584EN            (61.75 11)            R90
